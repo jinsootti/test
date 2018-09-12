@@ -9,4 +9,8 @@ hihihihihihi
 hava a nice girl
 nice boy
 
+<<<<<<< HEAD
 master part
+=======
+hotfix3 part
+>>>>>>> hotfix3
