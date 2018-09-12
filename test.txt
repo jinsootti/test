@@ -2,8 +2,6 @@ jjs hello world
 bye bye
 tell my world
 tell your world
-tell his world
-tell her world
 
 abcdefg
 hihihihihihi
