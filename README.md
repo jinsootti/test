@@ -1,21 +1,37 @@
 # we-fun
 
-> A Vue.js project
+> WeFun Vue.js project
+
+## Setting
+
+```bash
+# vue
+@vue/cli 4.5.15
+
+# node
+v16.13.0
+
+# npm
+v8.1.0
+
+# tool
+VSCode
+
+npm-cli webpack 프로젝트 생성하여 진행하였습니다.
+로컬 환경에서 진행하였습니다.
+초기 페이지는 http://localhost:8080/step1로 설정하였습니다.
+assets/img에 캡쳐본 저장하였습니다.
+
+감사합니다.
+```
 
 ## Build Setup
 
-``` bash
+```bash
 # install dependencies
 npm install
 
 # serve with hot reload at localhost:8080
 npm run dev
 
-# build for production with minification
-npm run build
-
-# build for production and view the bundle analyzer report
-npm run build --report
 ```
-
-For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
